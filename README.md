@@ -1,14 +1,3 @@
-# Alleway Harvest
-
-Ce projet est un chatbot simple pour le site web d'Alleway Harvest. Il répond aux questions des visiteurs sur les produits, notamment la liqueur de guavaberry.
-
-## 🚀 Fonctionnalités
-- Répond aux questions sur les produits et les prix
-- Donne des informations sur l'entreprise
-- Facile à intégrer sur un site web
-
-## 📜 Code du Chatbot
-```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -51,4 +40,3 @@ Ce projet est un chatbot simple pour le site web d'Alleway Harvest. Il répond a
     </script>
 </body>
 </html>
-```
